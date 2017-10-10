@@ -3,7 +3,7 @@
 
 NightlyNight is an open project which try to help Firefox, we work with users around the world trying to improve the web everyday.
 
-##What and Why We Do
+## What and Why We Do
 
 * We are experts using the web and all its components. 
 
@@ -14,7 +14,7 @@ NightlyNight is an open project which try to help Firefox, we work with users ar
 * Firefox Nightly is an alpha version of Firefox which is updated every night.
 
 
-##Contributing
+## Contributing
 
 * 
 
