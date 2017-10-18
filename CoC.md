@@ -1,4 +1,4 @@
-# Codigo de Conducta
+# Código de Conducta
 
 En Nigtly Night valoramos la participación de todos los miembros de la comunidad y queremos que todos tengan una experiencia agradable y satisfactoria. En consecuencia, se espera que todos los miembros muestren respeto y cortesía a otros miembros de la comunidad.
 
