@@ -27,7 +27,8 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
 ## Contributing
 
 * You can join us, watching our videos, attend our web meetings.
-* La forma más fácil de colaborar es mediante nuestros videos y nuestras reuniones virtuales. Igualmente 
+* La forma más fácil de colaborar es mediante nuestros videos y nuestras reuniones virtuales. 
+* Igualmente te recomendamos leer nuestra [guia para colaborar.](https://github.com/lasr21/nightlynight/blob/master/CONTRIBUTING.md "guia para colaborar")
 
 ### Get Involved
 
@@ -65,3 +66,4 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
 * ¿En que idioma son las reuniones?
 
     * Las reuniones serán en Español
+* 

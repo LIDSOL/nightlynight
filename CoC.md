@@ -36,7 +36,7 @@ No toleramos el acoso a miembros de la comunidad bajo ningún concepto, por ejem
 * Continuar  la comunicación uno-a-uno después de las solicitudes de alto.
 * Publicar elementos de comunicación privada sin conocimiento de la otra persona, como correos, mensajes de texto, etc..
 
-## Informa
+## Disclaimer
 
 Si eres acosado por un miembro, notas que alguien más está siendo acosado o tiene alguna otra preocupación, por favor ponte en contacto con el equipo de resolución de conflictos. Si la persona que te está acosando está en el equipo de resolución de conflictos, el equipo se abstendrá de tomar el caso y se buscará un reemplazo, provisional o definitivo, según la situación. Responderemos tan pronto como podamos.
 
