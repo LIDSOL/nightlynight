@@ -5,6 +5,13 @@ NightlyNight is an open project which try to help Firefox, we work with users ar
 
 NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firefox, trabajamos con usuarios alrededor del mundo tratando de mejorar la web día a día.
 
+* [What and Why We Do](#What and Why We Do "What and Why We Do")
+* [Contributing](#Contributing "Contributing")
+    [Get Involved](#Get Involved "Get Involved")
+    [Participation Guidelines](#Participation Guidelines "Participation Guidelines")
+* [Contact Us](#Contact Us "Contact Us")
+* [FAQ](#FAQ "FAQ")
+
 ## What and Why We Do
 
 * We are experts using the web and all its components.
@@ -27,12 +34,15 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
 
 ### Participation Guidelines
 
-* Nuestros esfuerzo y trabajo es guiado por los siguientes lineamientos, todos nuestros miembros y colaboradores están guiados por dichos lineamientos.
+* Nuestro esfuerzo y trabajo es guiado por los siguientes lineamientos, todos nuestros miembros y colaboradores están guiados por dichos lineamientos.
+
+* [Código de Conducta](https://github.com/lasr21/nightlynight/blob/master/CoC.md "Código de Conducta") 
 
 ## Contact Us
 
-* [Telegram](Telegram "Telegram")
-* [YouTube](YouTube "YouTube")
+* [Grupo de Telegram](https://t.me/NightlyNights "Telegram")
+* [Canal de YouTube México](https://www.youtube.com/channel/UCjqy4HKC932SD17pmF-W4oQ "YouTube")
+* [Canal de YouTube Hispano](https://www.youtube.com/user/mozillahispano/videos "YouTube")
 
 ## FAQ
 
@@ -44,6 +54,8 @@ Firefox Nightly es una versión previa a la versión de lanzamiento la cual es a
 * ¿Qué es una versión Alpha?
 
 * ¿Dónde puedo conseguir Telegram?
+
+Telegram es una plataforma de mensajeria instantanea basada en la nube y la puedes descargar desde [Telegram](https://www.telegram.org/ "Telegram") 
 
 * ¿En que idioma son las reuniones?
 
