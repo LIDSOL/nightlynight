@@ -40,7 +40,7 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
 
 * Nuestro esfuerzo y trabajo es guiado por los siguientes lineamientos, todos nuestros miembros y colaboradores están guiados por dichos lineamientos.
 
-    * [Código de Conducta](https://github.com/lasr21/nightlynight/blob/master/CoC.md "Código de Conducta") 
+    * [Código de Conducta](https://github.com/lasr21/nightlynight/blob/master/Code-of-Conduct.md "Código de Conducta") 
 
 ## Contact Us
 
@@ -66,4 +66,6 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
 * ¿En que idioma son las reuniones?
 
     * Las reuniones serán en Español
-* 
+
+* Tengo una idea, ¿cómo la puedo proponer?
+	* Si tienes una idea que puede ayudar al proyecto puedes levantar un [nuevo issue](https://github.com/acabunoc/open-leadership-zone/issues/new "nuevo issue") o bien puedes ponerte en contacto con nosotros a través de nuestro [grupo de Telegram](https://t.me/NightlyNights "Telegram")

@@ -1,5 +1,5 @@
-# Contributing to Nightly Night
 
+# Contributing to Nightly Night
 Thank you for your interest in contributing to Nightly Night :tada:! 
 
 Nightly Night is a project about users around the world working to improve Firefox and build an open web which work for everyone.
