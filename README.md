@@ -34,7 +34,7 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
 
 * Una buena forma de iniciar a colaborar es ver los dos primeros videos sobre ¿Qué es Firefox Nightly?, Instalando y Usando Firefox Nightly.
 * Posteriormente puedes ponerte en contacto con nosotros a través de nuestro grupo en Telegram para ver el estado actual de nuestros tests.
-* Igualmente puedes verificar nuestra [agenda](agenda "agenda") de reuniones previas y nuestra próxima reunión.
+* Igualmente puedes verificar nuestra [agenda](https://github.com/lasr21/nightlynight/blob/master/AGENDA.md "agenda") de reuniones previas y nuestra próxima reunión.
 
 ### Participation Guidelines
 
