@@ -7,7 +7,6 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
 
 * [What and Why We Do](https://github.com/lasr21/nightlynight#what-and-why-we-do "What and Why We Do")
 * [Contributing](https://github.com/lasr21/nightlynight#contributing "Contributing")
-    * [Get Involved](https://github.com/lasr21/nightlynight#get-involved "Get Involved")
     * [Participation Guidelines](https://github.com/lasr21/nightlynight#participation-guidelines "Participation Guidelines")
 * [Contact Us](https://github.com/lasr21/nightlynight#contact-us "Contact Us")
 * [FAQ](https://github.com/lasr21/nightlynight#faq "FAQ")
@@ -29,9 +28,6 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
 * You can join us, watching our videos, attend our web meetings.
 * La forma más fácil de colaborar es mediante nuestros videos y nuestras reuniones virtuales. 
 * Igualmente te recomendamos leer nuestra [guia para colaborar.](https://github.com/lasr21/nightlynight/blob/master/CONTRIBUTING.md "guia para colaborar")
-
-### Get Involved
-
 * Una buena forma de iniciar a colaborar es ver los dos primeros videos sobre ¿Qué es Firefox Nightly?, Instalando y Usando Firefox Nightly.
 * Posteriormente puedes ponerte en contacto con nosotros a través de nuestro grupo en Telegram para ver el estado actual de nuestros tests.
 * Igualmente puedes verificar nuestra [agenda](https://github.com/lasr21/nightlynight/blob/master/AGENDA.md "agenda") de reuniones previas y nuestra próxima reunión.
