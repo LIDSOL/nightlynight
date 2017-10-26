@@ -1,3 +1,5 @@
+> Antes de levantar este Issue, recuerda que todos las colaboraciones deben de alinearse con el objetivo y la misión del proyecto. Así como por nuestro codigo de conducta.
+
 ### Se necesita crear ###
 - [ ] Video Nuevo
 - [ ] Entrada en el blog
