@@ -1,5 +1,5 @@
-### Futuras Reuniones ####
+### Reuniones Futuras ####
 > * DD/MM/AAAA [Tema_De_La_Reunión](https://link_al_pad "Tema_De_La_Reunión")
 
-### Reuiones Anteriores ####
+### Reuniones Anteriores ####
 > * DD/MM/AAAA [Tema_De_La_Reunión](https://link_al_pad "Tema_De_La_Reunión")
