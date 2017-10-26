@@ -5,11 +5,11 @@ NightlyNight is an open project which try to help Firefox, we work with users ar
 
 NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firefox, trabajamos con usuarios alrededor del mundo tratando de mejorar la web día a día.
 
-* [What and Why We Do](https://github.com/lasr21/nightlynight#what-and-why-we-do "What and Why We Do")
-* [Contributing](https://github.com/lasr21/nightlynight#contributing "Contributing")
-    * [Participation Guidelines](https://github.com/lasr21/nightlynight#participation-guidelines "Participation Guidelines")
-* [Contact Us](https://github.com/lasr21/nightlynight#contact-us "Contact Us")
-* [FAQ](https://github.com/lasr21/nightlynight#faq "FAQ")
+* [What and Why We Do](#what-and-why-we-do "What and Why We Do") 
+* [Contributing](#contributing "Contributing")
+    * [Participation Guidelines](#participation-guidelines "Participation Guidelines")
+* [Contact Us](#contact-us "Contact Us")
+* [FAQ](#faq "FAQ")
 
 ## What and Why We Do
 
