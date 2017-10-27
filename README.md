@@ -27,16 +27,16 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
 
 * You can join us, watching our videos, attend our web meetings.
 * La forma más fácil de colaborar es mediante nuestros videos y nuestras reuniones virtuales. 
-* Igualmente te recomendamos leer nuestra [guia para colaborar.](https://github.com/lasr21/nightlynight/blob/master/CONTRIBUTING.md "guia para colaborar")
+* Igualmente te recomendamos leer nuestra [guia para colaborar.](https://github.com/LIDSOL/nightlynight/blob/master/CONTRIBUTING.md "guia para colaborar")
 * Una buena forma de iniciar a colaborar es ver los dos primeros videos sobre ¿Qué es Firefox Nightly?, Instalando y Usando Firefox Nightly.
 * Posteriormente puedes ponerte en contacto con nosotros a través de nuestro grupo en Telegram para ver el estado actual de nuestros tests.
-* Igualmente puedes verificar nuestra [agenda](https://github.com/lasr21/nightlynight/blob/master/AGENDA.md "agenda") de reuniones previas y nuestra próxima reunión.
+* Igualmente puedes verificar nuestra [agenda](https://github.com/LIDSOL/nightlynight/blob/master/AGENDA.md "agenda") de reuniones previas y nuestra próxima reunión.
 
 ### Participation Guidelines
 
 * Nuestro esfuerzo y trabajo es guiado por los siguientes lineamientos, todos nuestros miembros y colaboradores están guiados por dichos lineamientos.
 
-    * [Código de Conducta](https://github.com/lasr21/nightlynight/blob/master/CODE_OF_CONDUCT.md "Código de Conducta") 
+    * [Código de Conducta](https://github.com/LIDSOL/nightlynight/blob/master/CODE_OF_CONDUCT.md "Código de Conducta") 
 
 ## Contact Us
 
@@ -64,4 +64,4 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
     * Las reuniones serán en Español
 
 * Tengo una idea, ¿cómo la puedo proponer?
-	* Si tienes una idea que puede ayudar al proyecto puedes levantar un [nuevo issue](https://github.com/lasr21/nightlynight/issues/new "nuevo issue") o bien puedes ponerte en contacto con nosotros a través de nuestro [grupo de Telegram](https://t.me/NightlyNights "Telegram")
+	* Si tienes una idea que puede ayudar al proyecto puedes levantar un [nuevo issue](https://github.com/LIDSOL/nightlynight/issues/new "nuevo issue") o bien puedes ponerte en contacto con nosotros a través de nuestro [grupo de Telegram](https://t.me/NightlyNights "Telegram")
