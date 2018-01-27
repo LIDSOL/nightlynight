@@ -1,44 +1,39 @@
 
 # Nightly Night
 
-NightlyNight is an open project which try to help Firefox, we work with users around the world trying to improve the web everyday.
-
 NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firefox, trabajamos con usuarios alrededor del mundo tratando de mejorar la web día a día.
 
-* [What and Why We Do](#what-and-why-we-do "What and Why We Do") 
-* [Contributing](#contributing "Contributing")
-    * [Participation Guidelines](#participation-guidelines "Participation Guidelines")
-* [Contact Us](#contact-us "Contact Us")
-* [FAQ](#faq "FAQ")
+*[Que y Porque Lo Hacemos](#que-y-porque-lo-hacemos "Que y Porque Lo Hacemos")
+*[Contribuyendo](#contribuyendo "Contribuyendo")
+   *[Directivas De Participación](#directivas-de-participacion "Directivas De Paritcipación")
+*[Contáctanos](#contactanos "Contáctanos")
+*[FAQ](#faq "FAQ")
 
-## What and Why We Do
 
-* We are experts using the web and all its components.
+## Que y Porque Lo Hacemos
+
 * Somos usuarios expertos en usar la web y sus componentes.
 
-* We believe that a website tested now is a bug avoided tomorrow.
 * Creemos que un sitio web probado hoy es un bug evitado mañana.
 
-* People who want to be an expert on Firefox are welcome!
 * ¡Todos los que quieran convertirse en expertos en Firefox son bienvenidos!
 
 
 ## Contributing
 
-* You can join us, watching our videos, attend our web meetings.
 * La forma más fácil de colaborar es mediante nuestros videos y nuestras reuniones virtuales. 
 * Igualmente te recomendamos leer nuestra [guia para colaborar.](https://github.com/LIDSOL/nightlynight/blob/master/CONTRIBUTING.md "guia para colaborar")
 * Una buena forma de iniciar a colaborar es ver los dos primeros videos sobre ¿Qué es Firefox Nightly?, Instalando y Usando Firefox Nightly.
 * Posteriormente puedes ponerte en contacto con nosotros a través de nuestro grupo en Telegram para ver el estado actual de nuestros tests.
 * Igualmente puedes verificar nuestra [agenda](https://github.com/LIDSOL/nightlynight/blob/master/AGENDA.md "agenda") de reuniones previas y nuestra próxima reunión.
 
-### Participation Guidelines
+### Directivas De Participación
 
 * Nuestro esfuerzo y trabajo es guiado por los siguientes lineamientos, todos nuestros miembros y colaboradores están guiados por dichos lineamientos.
 
     * [Código de Conducta](https://github.com/LIDSOL/nightlynight/blob/master/CODE_OF_CONDUCT.md "Código de Conducta") 
 
-## Contact Us
+## Contáctanos
 
 * [Grupo de Telegram](https://t.me/NightlyNights "Telegram")
 * [Canal de YouTube México](https://www.youtube.com/channel/UCjqy4HKC932SD17pmF-W4oQ "YouTube")
@@ -48,7 +43,6 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
 
 * ¿Qué es Firefox Nightly?
 
-    * Firefox Nightly is an alpha version of Firefox which is updated every night.
     * Firefox Nightly es una versión previa a la versión de lanzamiento la cual es actualizada cada noche.
 
 * ¿Qué es una versión Alpha?
