@@ -4,7 +4,7 @@
 NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firefox, trabajamos con usuarios alrededor del mundo tratando de mejorar la web día a día.
 
 *[Que y Porque Lo Hacemos](#que-y-porque-lo-hacemos "Que y Porque Lo Hacemos")
-*[Contribuyendo](#contribuyendo "Contribuyendo")
+*[Colaborar](#colaborar "Colaborar")
    *[Directivas De Participación](#directivas-de-participacion "Directivas De Paritcipación")
 *[Contáctanos](#contactanos "Contáctanos")
 *[FAQ](#faq "FAQ")
@@ -19,7 +19,7 @@ NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firef
 * ¡Todos los que quieran convertirse en expertos en Firefox son bienvenidos!
 
 
-## Contributing
+## Colaborar
 
 * La forma más fácil de colaborar es mediante nuestros videos y nuestras reuniones virtuales. 
 * Igualmente te recomendamos leer nuestra [guia para colaborar.](https://github.com/LIDSOL/nightlynight/blob/master/CONTRIBUTING.md "guia para colaborar")
