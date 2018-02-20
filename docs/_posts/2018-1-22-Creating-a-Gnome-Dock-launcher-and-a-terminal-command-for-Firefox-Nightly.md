@@ -3,8 +3,6 @@ layout: post
 title: Creating a Gnome Dock launcher and a terminal command for Firefox Nightly
 ---
 
-# Creating a Gnome Dock launcher and a terminal command for Firefox Nightly
-
 Pascal Chevrel | January 22, 2018 | [Original post](https://blog.nightly.mozilla.org/2018/01/22/335/)
 
 **About 18 months ago, Wil Clouser wrote a blog post on this very blog titled [Getting Firefox Nightly to stick to Ubuntu’s Unity Dock](https://blog.nightly.mozilla.org/2016/09/19/getting-firefox-nightly-to-stick-to-ubuntus-unity-dock/).**
