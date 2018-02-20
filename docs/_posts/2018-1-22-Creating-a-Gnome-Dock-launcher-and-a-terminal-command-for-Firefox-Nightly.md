@@ -1,3 +1,8 @@
+---
+layout: post
+title: Creating a Gnome Dock launcher and a terminal command for Firefox Nightly
+---
+
 # Creating a Gnome Dock launcher and a terminal command for Firefox Nightly
 
 Pascal Chevrel | January 22, 2018 | [Original post](https://blog.nightly.mozilla.org/2018/01/22/335/)
