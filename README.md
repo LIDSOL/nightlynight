@@ -3,19 +3,18 @@
 
 NightlyNight es un projecto que trabaja en abierto, el cual busca ayudar a Firefox, trabajamos con usuarios alrededor del mundo tratando de mejorar la web día a día.
 
-*[Que y Porque Lo Hacemos](#que-y-porque-lo-hacemos "Que y Porque Lo Hacemos")
-*[Colaborar](#colaborar "Colaborar")
-   *[Directivas De Participación](#directivas-de-participacion "Directivas De Paritcipación")
-*[Contáctanos](#contactanos "Contáctanos")
-*[FAQ](#faq "FAQ")
+* [Que y Porque Lo Hacemos](#que-y-porque-lo-hacemos "Que y Porque Lo Hacemos")
+* [Colaborar](#colaborar "Colaborar")
+   * [Directivas De Participación](#directivas-de-participacion "Directivas De Paritcipación")
+* [Contáctanos](#contactanos "Contáctanos")
+* [FAQ](#faq "FAQ")
+* [Sitio del proyecto](https://lidsol.github.io/nightlynight/)
 
 
 ## Que y Porque Lo Hacemos
 
 * Somos usuarios expertos en usar la web y sus componentes.
-
 * Creemos que un sitio web probado hoy es un bug evitado mañana.
-
 * ¡Todos los que quieran convertirse en expertos en Firefox son bienvenidos!
 
 
